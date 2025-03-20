@@ -1,0 +1,6 @@
+gradio==4.37.2
+llama_index==0.10.51
+langdetect==1.0.9
+deep-translator==1.11.4
+lingua-language-detector==2.0.2
+dotenv==0.9.9
